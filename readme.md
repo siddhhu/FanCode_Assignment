@@ -5,14 +5,16 @@ This project automates the scenario where all users from the city FanCode should
 ## Setup
 
 1. Clone the repository:
-git clone <repo_url> cd fancode_sdet_assignment
+git clone https://github.com/siddhhu/FanCode_Assignment.git
+
+2. Go to the Cloned Directory
 
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
 
-3. Run the tests:
+4. Run the tests:
 python3 -m unittest test_fancode.py
 
 
